@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-frontend/static/css/main.83a5050a.css",
+    "main.js": "/Portfolio-frontend/static/js/main.1a20674e.js",
+    "static/media/default.jpg": "/Portfolio-frontend/static/media/default.7d535815e88e29dd7060.jpg",
+    "static/media/img1.png": "/Portfolio-frontend/static/media/img1.86ff0afae8a2c92effda.png",
+    "static/media/easybank.png": "/Portfolio-frontend/static/media/easybank.b75fc3c9549830a355f3.png",
+    "static/media/country.PNG": "/Portfolio-frontend/static/media/country.4fc34d574a57ba0b0893.PNG",
+    "static/media/steg.gif": "/Portfolio-frontend/static/media/steg.4a8ada769d4eb0dc84f8.gif",
+    "static/media/webb.png": "/Portfolio-frontend/static/media/webb.50505726f01b54627e2f.png",
+    "index.html": "/Portfolio-frontend/index.html",
+    "main.83a5050a.css.map": "/Portfolio-frontend/static/css/main.83a5050a.css.map",
+    "main.1a20674e.js.map": "/Portfolio-frontend/static/js/main.1a20674e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83a5050a.css",
+    "static/js/main.1a20674e.js"
+  ]
+}
